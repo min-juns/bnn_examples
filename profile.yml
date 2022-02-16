@@ -1,0 +1,372 @@
+---
+GlowToolsVersion: 2022-02-16
+...
+---
+GraphPreLowerHash: 0x55BBB825A378F35C
+...
+---
+- NodeOutputName:  'AveragePool_26__1:0'
+  Min:             -332374.53125
+  Max:             168454.65625
+  Histogram:       [ 1, 0, 0, 0, 0, 43, 348, 118, 1, 1 ]
+- NodeOutputName:  'Conv_0__1:0'
+  Min:             0.050980396568775177001953125
+  Max:             1.0
+  Histogram:       [ 101, 509, 392, 616, 571, 404, 294, 106, 42, 37 ]
+- NodeOutputName:  'Conv_0__2:0'
+  Min:             -223468.125
+  Max:             355429.75
+  Histogram:       [ 6144, 4096, 10240, 62464, 30720, 8192, 6144, 1024, 
+                     0, 2048 ]
+- NodeOutputName:  'Conv_0__3:0'
+  Min:             -223468.125
+  Max:             355429.75
+  Histogram:       [ 6144, 4096, 10240, 62464, 30720, 8192, 6144, 1024, 
+                     0, 2048 ]
+- NodeOutputName:  'Conv_10__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 70656, 0, 0, 0, 0, 0, 0, 0, 0, 60416 ]
+- NodeOutputName:  'Conv_10__2:0'
+  Min:             -22516.884765625
+  Max:             19704.21484375
+  Histogram:       [ 512, 2304, 4592, 7727, 11986, 13552, 11551, 7920, 
+                     3600, 1792 ]
+- NodeOutputName:  'Conv_10__3:0'
+  Min:             -22516.884765625
+  Max:             19704.21484375
+  Histogram:       [ 512, 2304, 4592, 7727, 11986, 13552, 11551, 7920, 
+                     3600, 1792 ]
+- NodeOutputName:  'Conv_12__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 32784, 0, 0, 0, 0, 0, 0, 0, 0, 32752 ]
+- NodeOutputName:  'Conv_12__2:0'
+  Min:             -23405.140625
+  Max:             55092.6640625
+  Histogram:       [ 3599, 15061, 12632, 17574, 13583, 2063, 768, 0, 0, 
+                     256 ]
+- NodeOutputName:  'Conv_12__3:0'
+  Min:             -23405.140625
+  Max:             55092.6640625
+  Histogram:       [ 3599, 15061, 12632, 17574, 13583, 2063, 768, 0, 0, 
+                     256 ]
+- NodeOutputName:  'Conv_14__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 31219, 0, 0, 0, 0, 0, 0, 0, 0, 34317 ]
+- NodeOutputName:  'Conv_14__2:0'
+  Min:             -1491627.625
+  Max:             36166.625
+  Histogram:       [ 256, 0, 0, 0, 0, 0, 0, 0, 0, 65280 ]
+- NodeOutputName:  'Conv_14__3:0'
+  Min:             -1491627.625
+  Max:             36166.625
+  Histogram:       [ 256, 0, 0, 0, 0, 0, 0, 0, 0, 65280 ]
+- NodeOutputName:  'Conv_16__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 33280, 0, 0, 0, 0, 0, 0, 0, 0, 32256 ]
+- NodeOutputName:  'Conv_16__2:0'
+  Min:             -63225.5625
+  Max:             62680.7421875
+  Histogram:       [ 512, 256, 0, 4398, 26592, 26820, 5166, 1280, 256, 
+                     256 ]
+- NodeOutputName:  'Conv_16__3:0'
+  Min:             -63225.5625
+  Max:             62680.7421875
+  Histogram:       [ 512, 256, 0, 4398, 26592, 26820, 5166, 1280, 256, 
+                     256 ]
+- NodeOutputName:  'Conv_18__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 33069, 0, 0, 0, 0, 0, 0, 0, 0, 32467 ]
+- NodeOutputName:  'Conv_18__2:0'
+  Min:             -64104.37109375
+  Max:             670004.1875
+  Histogram:       [ 24647, 7929, 128, 0, 0, 0, 0, 0, 0, 64 ]
+- NodeOutputName:  'Conv_18__3:0'
+  Min:             -64104.37109375
+  Max:             670004.1875
+  Histogram:       [ 24647, 7929, 128, 0, 0, 0, 0, 0, 0, 64 ]
+- NodeOutputName:  'Conv_20__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 16768, 0, 0, 0, 0, 0, 0, 0, 0, 16000 ]
+- NodeOutputName:  'Conv_20__2:0'
+  Min:             -5534777.0
+  Max:             43324.46484375
+  Histogram:       [ 64, 0, 0, 0, 0, 0, 0, 0, 0, 32704 ]
+- NodeOutputName:  'Conv_20__3:0'
+  Min:             -5534777.0
+  Max:             43324.46484375
+  Histogram:       [ 64, 0, 0, 0, 0, 0, 0, 0, 0, 32704 ]
+- NodeOutputName:  'Conv_22__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 16588, 0, 0, 0, 0, 0, 0, 0, 0, 16180 ]
+- NodeOutputName:  'Conv_22__2:0'
+  Min:             -10449522.0
+  Max:             4833758.5
+  Histogram:       [ 64, 0, 0, 0, 64, 320, 31808, 448, 0, 64 ]
+- NodeOutputName:  'Conv_22__3:0'
+  Min:             -10449522.0
+  Max:             4833758.5
+  Histogram:       [ 64, 0, 0, 0, 64, 320, 31808, 448, 0, 64 ]
+- NodeOutputName:  'Conv_24__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 15291, 0, 0, 0, 0, 0, 0, 0, 0, 17477 ]
+- NodeOutputName:  'Conv_24__2:0'
+  Min:             -332469.96875
+  Max:             168581.109375
+  Histogram:       [ 64, 0, 0, 0, 0, 2775, 22299, 7502, 64, 64 ]
+- NodeOutputName:  'Conv_2__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 61440, 0, 0, 0, 0, 0, 0, 0, 0, 69632 ]
+- NodeOutputName:  'Conv_2__2:0'
+  Min:             -32822.9609375
+  Max:             31539.984375
+  Histogram:       [ 4096, 3072, 8192, 16260, 39036, 33792, 11264, 9216, 
+                     3072, 3072 ]
+- NodeOutputName:  'Conv_2__3:0'
+  Min:             -32822.9609375
+  Max:             31539.984375
+  Histogram:       [ 4096, 3072, 8192, 16260, 39036, 33792, 11264, 9216, 
+                     3072, 3072 ]
+- NodeOutputName:  'Conv_4__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 76768, 0, 0, 0, 0, 0, 0, 0, 0, 54304 ]
+- NodeOutputName:  'Conv_4__2:0'
+  Min:             -20383.416015625
+  Max:             14551.4208984375
+  Histogram:       [ 3072, 3072, 4096, 9277, 27650, 27585, 29696, 16384, 
+                     5120, 5120 ]
+- NodeOutputName:  'Conv_4__3:0'
+  Min:             -20383.416015625
+  Max:             14551.4208984375
+  Histogram:       [ 3072, 3072, 4096, 9277, 27650, 27585, 29696, 16384, 
+                     5120, 5120 ]
+- NodeOutputName:  'Conv_6__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 68608, 0, 0, 0, 0, 0, 0, 0, 0, 62464 ]
+- NodeOutputName:  'Conv_6__2:0'
+  Min:             -22887.80078125
+  Max:             24476.6484375
+  Histogram:       [ 2048, 0, 8192, 14336, 38912, 41984, 17408, 7168, 0, 
+                     1024 ]
+- NodeOutputName:  'Conv_6__3:0'
+  Min:             -22887.80078125
+  Max:             24476.6484375
+  Histogram:       [ 2048, 0, 8192, 14336, 38912, 41984, 17408, 7168, 0, 
+                     1024 ]
+- NodeOutputName:  'Conv_8__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 55234, 0, 0, 0, 0, 0, 0, 0, 0, 75838 ]
+- NodeOutputName:  'Conv_8__2:0'
+  Min:             -38066.91796875
+  Max:             29151.373046875
+  Histogram:       [ 1024, 2048, 1024, 2048, 31744, 50239, 36801, 4096, 
+                     1024, 1024 ]
+- NodeOutputName:  'Conv_8__3:0'
+  Min:             -38066.91796875
+  Max:             29151.373046875
+  Histogram:       [ 1024, 2048, 1024, 2048, 31744, 50239, 36801, 4096, 
+                     1024, 1024 ]
+- NodeOutputName:  'Gemm_34:0'
+  Min:             -27.9149169921875
+  Max:             154.1118316650390625
+  Histogram:       [ 2, 1, 1, 1, 0, 0, 0, 2, 2, 1 ]
+- NodeOutputName:  'Gemm_34_TransposeB:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 2575, 0, 0, 0, 0, 0, 0, 0, 0, 2545 ]
+- NodeOutputName:  'Gemm_34__1:0'
+  Min:             -27.9149169921875
+  Max:             154.1118316650390625
+  Histogram:       [ 2, 1, 1, 1, 0, 0, 0, 2, 2, 1 ]
+- NodeOutputName:  'Gemm_34__1_bias:0'
+  Min:             -27.9149169921875
+  Max:             154.1118316650390625
+  Histogram:       [ 2, 1, 1, 1, 0, 0, 0, 2, 2, 1 ]
+- NodeOutputName:  'Gemm_34__1_dot:0'
+  Min:             -92.0
+  Max:             90.0
+  Histogram:       [ 2, 1, 0, 2, 0, 0, 0, 1, 2, 2 ]
+- NodeOutputName:  'Reshape_32__1:0'
+  Min:             -332374.53125
+  Max:             168454.65625
+  Histogram:       [ 1, 0, 0, 0, 0, 43, 348, 118, 1, 1 ]
+- NodeOutputName:  'Sign_11:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 32784, 0, 0, 0, 0, 0, 0, 0, 0, 32752 ]
+- NodeOutputName:  'Sign_13:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 31219, 0, 0, 0, 0, 0, 0, 0, 0, 34317 ]
+- NodeOutputName:  'Sign_15:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 33280, 0, 0, 0, 0, 0, 0, 0, 0, 32256 ]
+- NodeOutputName:  'Sign_17:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 33069, 0, 0, 0, 0, 0, 0, 0, 0, 32467 ]
+- NodeOutputName:  'Sign_19:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 16768, 0, 0, 0, 0, 0, 0, 0, 0, 16000 ]
+- NodeOutputName:  'Sign_1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 61440, 0, 0, 0, 0, 0, 0, 0, 0, 69632 ]
+- NodeOutputName:  'Sign_21:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 16588, 0, 0, 0, 0, 0, 0, 0, 0, 16180 ]
+- NodeOutputName:  'Sign_23:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 15291, 0, 0, 0, 0, 0, 0, 0, 0, 17477 ]
+- NodeOutputName:  'Sign_33:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 259, 0, 0, 0, 0, 0, 0, 0, 0, 253 ]
+- NodeOutputName:  'Sign_3:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 76768, 0, 0, 0, 0, 0, 0, 0, 0, 54304 ]
+- NodeOutputName:  'Sign_5:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 68608, 0, 0, 0, 0, 0, 0, 0, 0, 62464 ]
+- NodeOutputName:  'Sign_7:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 55234, 0, 0, 0, 0, 0, 0, 0, 0, 75838 ]
+- NodeOutputName:  'Sign_9:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 70656, 0, 0, 0, 0, 0, 0, 0, 0, 60416 ]
+- NodeOutputName:  'conv1_bias:0'
+  Min:             -223464.1875
+  Max:             355428.09375
+  Histogram:       [ 6, 4, 10, 61, 30, 8, 6, 1, 0, 2 ]
+- NodeOutputName:  'conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 1729, 0, 0, 0, 0, 0, 0, 0, 0, 1727 ]
+- NodeOutputName:  'fc_bias:0'
+  Min:             38.31884002685546875
+  Max:             78.80181121826171875
+  Histogram:       [ 1, 0, 0, 3, 1, 0, 2, 1, 0, 2 ]
+- NodeOutputName:  'fc_weight:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 2575, 0, 0, 0, 0, 0, 0, 0, 0, 2545 ]
+- NodeOutputName:  'input:0'
+  Min:             0.050980396568775177001953125
+  Max:             1.0
+  Histogram:       [ 101, 509, 392, 616, 571, 404, 294, 106, 42, 37 ]
+- NodeOutputName:  'layer1_0_conv1_bias:0'
+  Min:             -32952.9609375
+  Max:             31661.984375
+  Histogram:       [ 4, 3, 8, 14, 40, 33, 11, 9, 3, 3 ]
+- NodeOutputName:  'layer1_0_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 73520, 0, 0, 0, 0, 0, 0, 0, 0, 73936 ]
+- NodeOutputName:  'layer1_0_conv2_bias:0'
+  Min:             -20361.416015625
+  Max:             14617.4208984375
+  Histogram:       [ 3, 3, 4, 10, 30, 23, 29, 17, 4, 5 ]
+- NodeOutputName:  'layer1_0_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 73355, 0, 0, 0, 0, 0, 0, 0, 0, 74101 ]
+- NodeOutputName:  'layer1_1_conv1_bias:0'
+  Min:             -22867.80078125
+  Max:             24500.6484375
+  Histogram:       [ 2, 0, 9, 13, 38, 41, 17, 7, 0, 1 ]
+- NodeOutputName:  'layer1_1_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 73636, 0, 0, 0, 0, 0, 0, 0, 0, 73820 ]
+- NodeOutputName:  'layer1_1_conv2_bias:0'
+  Min:             -38064.91796875
+  Max:             29127.373046875
+  Histogram:       [ 1, 2, 1, 2, 31, 50, 35, 4, 1, 1 ]
+- NodeOutputName:  'layer1_1_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 73485, 0, 0, 0, 0, 0, 0, 0, 0, 73971 ]
+- NodeOutputName:  'layer2_0_conv1_bias:0'
+  Min:             -22608.884765625
+  Max:             19736.21484375
+  Histogram:       [ 2, 9, 17, 32, 44, 54, 45, 31, 15, 7 ]
+- NodeOutputName:  'layer2_0_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 147481, 0, 0, 0, 0, 0, 0, 0, 0, 147431 ]
+- NodeOutputName:  'layer2_0_conv2_bias:0'
+  Min:             -23405.140625
+  Max:             55116.6640625
+  Histogram:       [ 15, 59, 49, 66, 55, 8, 3, 0, 0, 1 ]
+- NodeOutputName:  'layer2_0_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 295409, 0, 0, 0, 0, 0, 0, 0, 0, 294415 ]
+- NodeOutputName:  'layer2_1_conv1_bias:0'
+  Min:             -1491509.625
+  Max:             36218.625
+  Histogram:       [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 255 ]
+- NodeOutputName:  'layer2_1_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 294782, 0, 0, 0, 0, 0, 0, 0, 0, 295042 ]
+- NodeOutputName:  'layer2_1_conv2_bias:0'
+  Min:             -63095.5625
+  Max:             62692.7421875
+  Histogram:       [ 2, 1, 0, 18, 103, 104, 21, 5, 1, 1 ]
+- NodeOutputName:  'layer2_1_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 295538, 0, 0, 0, 0, 0, 0, 0, 0, 294286 ]
+- NodeOutputName:  'layer3_0_conv1_bias:0'
+  Min:             -63882.37109375
+  Max:             669970.1875
+  Histogram:       [ 389, 120, 2, 0, 0, 0, 0, 0, 0, 1 ]
+- NodeOutputName:  'layer3_0_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 589512, 0, 0, 0, 0, 0, 0, 0, 0, 590136 ]
+- NodeOutputName:  'layer3_0_conv2_bias:0'
+  Min:             -5534569.0
+  Max:             43340.46484375
+  Histogram:       [ 1, 0, 0, 0, 0, 0, 0, 0, 0, 511 ]
+- NodeOutputName:  'layer3_0_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 1.1792e+06, 0, 0, 0, 0, 0, 0, 0, 0, 1.1801e+06 ]
+- NodeOutputName:  'layer3_1_conv1_bias:0'
+  Min:             -10449590.0
+  Max:             4833694.5
+  Histogram:       [ 1, 0, 0, 0, 1, 5, 497, 7, 0, 1 ]
+- NodeOutputName:  'layer3_1_conv1_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 1.17993e+06, 0, 0, 0, 0, 0, 0, 0, 0, 1.17937e+06 ]
+- NodeOutputName:  'layer3_1_conv2_bias:0'
+  Min:             -331881.96875
+  Max:             168647.109375
+  Histogram:       [ 1, 0, 0, 0, 0, 47, 347, 115, 1, 1 ]
+- NodeOutputName:  'layer3_1_conv2_weight__1:0'
+  Min:             -1.0
+  Max:             1.0
+  Histogram:       [ 1.1821e+06, 0, 0, 0, 0, 0, 0, 0, 0, 1.17719e+06 ]
+...
